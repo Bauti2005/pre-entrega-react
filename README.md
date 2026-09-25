@@ -1,16 +1,15 @@
-# React + Vite
+# PokeMarket ⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+E-commerce especializado en la venta de cartas sueltas y cajas selladas de Pokémon. Este proyecto fue desarrollado como pre-entrega para el curso de React JS.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
+* **React** (creado con Vite)
+* **React Router DOM** (enrutamiento de la aplicación)
+* **CSS** (estilos personalizados)
+* **Fetch API** (simulación de base de datos con un archivo JSON local)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Características principales
+* Navegación SPA (Single Page Application) sin recargas de página.
+* Catálogo dinámico con renderizado de componentes.
+* Layout unificado con Header y Footer.
+* Vistas de Inicio, Catálogo de Productos y Carrito de Compras.
