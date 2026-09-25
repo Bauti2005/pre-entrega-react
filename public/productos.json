@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3,
+    "nombre": "Charizard ex - 199/165 (SAR)",
+    "precio": 95000,
+    "categoria": "cartas",
+    "descripcion": "Carta suelta Special Illustration Rare en estado Near Mint.",
+    "imagen": "/charizard.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Pikachu VMAX",
+    "precio": 25000,
+    "categoria": "cartas",
+    "descripcion": "Carta suelta ultra rara de la colección Voltaje Vívido.",
+    "imagen": "/PikachuVMAX.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Mewtwo VSTAR",
+    "precio": 30000,
+    "categoria": "cartas",
+    "descripcion": "Carta ultra rara de la expansión Pokémon GO.",
+    "imagen": "/MewtwoVSTAR.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "Charizard Base Set - PSA 9",
+    "precio": 450000,
+    "categoria": "cartas",
+    "descripcion": "Clásica carta de Charizard holográfica de 1999, certificada PSA 9.",
+    "imagen": "/psa-charizard.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Umbreon VMAX (Alt Art) - PSA 10",
+    "precio": 850000,
+    "categoria": "cartas",
+    "descripcion": "El famoso 'Moonbreon' de Cielos Evolutivos en estado perfecto.",
+    "imagen": "/psa-umbreon.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Lugia V (Alt Art) - PSA 10",
+    "precio": 320000,
+    "categoria": "cartas",
+    "descripcion": "Lugia Alternate Art de Tempestad Plateada, certificado PSA 10.",
+    "imagen": "/psa-lugia.jpg"
+  },
+  {
+    "id": 1,
+    "nombre": "Caja Booster 151",
+    "precio": 120000,
+    "categoria": "cajas",
+    "descripcion": "Caja sellada con 36 sobres de la expansión 151.",
+    "imagen": "/caja151.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Elite Trainer Box - Paldean Fates",
+    "precio": 65000,
+    "categoria": "cajas",
+    "descripcion": "Incluye 9 sobres, fundas de Mimikyu y accesorios para jugar.",
+    "imagen": "/Elite Trainer Box - Paldean Fates.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Caja Booster Corona Estelar",
+    "precio": 135000,
+    "categoria": "cajas",
+    "descripcion": "Caja con 36 sobres de la expansión Corona Estelar.",
+    "imagen": "/CajaBoosterCoronaEstelar.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Caja Booster Tempestad Plateada",
+    "precio": 145000,
+    "categoria": "cajas",
+    "descripcion": "Caja sellada con 36 sobres de Silver Tempest.",
+    "imagen": "/caja-tempestad.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Elite Trainer Box - 151",
+    "precio": 85000,
+    "categoria": "cajas",
+    "descripcion": "Incluye 9 sobres de 151 y la carta promo de Snorlax.",
+    "imagen": "/etb-151.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Caja Booster Cielos Evolutivos",
+    "precio": 290000,
+    "categoria": "cajas",
+    "descripcion": "La caja más buscada de Espada y Escudo. 36 sobres.",
+    "imagen": "/caja-cielos.jpg"
+  }
+]
